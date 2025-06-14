@@ -2,6 +2,9 @@
 
 # 🏊 BLACKTEMPLE APP v1.0
 
+[![Download](img/dwandroid.png)](https://github.com/BLACKTEMPLE-SPACE/blacktemple_app/releases/tag/apk)
+
+
 Dear friends, colleagues, and lovely humans — we appreciate and value each of you!
 
 We are excited to present the **first public release** of our long-awaited app. Today marks the start of an **open beta test** for Android devices. This is still a **beta version**, and we need **your feedback**. 
