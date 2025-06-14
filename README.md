@@ -16,13 +16,15 @@ Tell us what works, what doesn’t, and what features you’d love to see. Your 
 ## 🔧 Core Features
 
 - 😄 **VLESS protocol support**  
-- ⚡ **AWG protocol support**  
 - 📱 **Per-app tunneling**  
   *(Only selected apps will use the VPN; others will remain unaffected)*
 
 ---
 
 ## 🚫 Planned Features (Coming Soon)
+
+- ❌ **AWG protocol support**
+  *Amnezia Wireguard protocol*
 
 - ❌ **BlackKeyDemon**  
   *Automatic key rotation and seamless reconnection — no user interaction required*
