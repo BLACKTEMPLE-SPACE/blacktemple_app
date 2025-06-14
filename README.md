@@ -1,3 +1,5 @@
+![App Screenshot](img/beta1.png)
+
 # 🏊 BLACKTEMPLE APP v1.0
 
 Dear friends, colleagues, and lovely humans — we appreciate and value each of you!
