@@ -2,7 +2,7 @@
 
 # 🏊 BLACKTEMPLE APP v1.0
 
-[![Download](img/dwandroid.png)]([https://github.com/BLACKTEMPLE-SPACE/blacktemple_app/releases/tag/apk](https://github.com/BLACKTEMPLE-SPACE/blacktemple_app/releases))
+[![Download](img/dwandroid.png)](https://github.com/BLACKTEMPLE-SPACE/blacktemple_app/releases))
 
 
 Dear friends, colleagues, and lovely humans — we appreciate and value each of you!
